@@ -4,8 +4,7 @@ I'm Timothy Baraka from Kenya, a software engineer passionate about impactful ch
 
 - 🔭 Currently working on:
   - Mobile app called First-Liners
-  - Website called JustClimate
-  - PWA app for Nawiri, the trading company I work with
+  - Website called JustClimate, Nawiri: the trading company I work with
 
 - 🌱 Currently learning data science and prompt engineering
 
