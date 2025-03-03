@@ -17,5 +17,5 @@ I'm Timothy Baraka from Kenya, a software engineer passionate about impactful ch
 - 😄 Pronouns: He/him
 
 - ⚡ Fun fact: Bananas are berries, but strawberries are not!
-- [![Baraka Timothy](https://github-readme-stats.vercel.app/api?username=barakatimothy)](https://github.com/barakatimothy/github-readme-stats)
+- [(https://github-readme-stats.vercel.app/api?username=barakatimothy)](https://github.com/barakatimothy/github-readme-stats)
 
