@@ -17,4 +17,5 @@ I'm Timothy Baraka from Kenya, a software engineer passionate about impactful ch
 - 😄 Pronouns: He/him
 
 - ⚡ Fun fact: Bananas are berries, but strawberries are not!
+- https://camo.githubusercontent.com/bfa1c851bab60914972135283db5627bee0bb3cc733c3247cb7be50444ddbfaf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666f72726573746b6e696768742673686f775f69636f6e733d74727565267468656d653d67727576626f78
 
